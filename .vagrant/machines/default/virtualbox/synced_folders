@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/enzo/workspace/fastFood","disabled":false},"v-csc-313ffa84b":{"id":"v-csc-313ffa84b","guestpath":"/tmp/vagrant-chef/20d9547f630b95e4b753875eee6c638d/cookbooks","hostpath":"/home/enzo/workspace/fastFood/cookbooks","disabled":false}}}
